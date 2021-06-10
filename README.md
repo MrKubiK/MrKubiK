@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MrKubiK
+- 👀 I’m interested in Coding, Games and Anime
+- 🌱 I’m currently learning C#, C++, Python, HTML/CSS and Java
+- 📫 Reach me under Discord: Qiriku#9999
