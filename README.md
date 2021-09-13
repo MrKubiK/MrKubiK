@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jakub, I live in Austria and I'm at HTL Donaustadt
 - 👀 I’m interested in Coding, Games and Anime
 - 🌱 I’m currently learning C#, C++, Python, HTML/CSS and Java
-- 📫 Reach me under Discord: Qiriku#0616
+- 📫 You can reach me on Discord: Qiriku#0616
